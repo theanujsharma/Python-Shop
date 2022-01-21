@@ -1,0 +1,1 @@
+Anuj, you bought ['Pizza', 'Burger'] and your total bill is $250
